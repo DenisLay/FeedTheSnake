@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FeedTheSnake/static/css/main.5f361e03.chunk.css",
+    "main.js": "/FeedTheSnake/static/js/main.986d93a6.chunk.js",
+    "main.js.map": "/FeedTheSnake/static/js/main.986d93a6.chunk.js.map",
+    "runtime-main.js": "/FeedTheSnake/static/js/runtime-main.a4e3e819.js",
+    "runtime-main.js.map": "/FeedTheSnake/static/js/runtime-main.a4e3e819.js.map",
+    "static/js/2.831e4561.chunk.js": "/FeedTheSnake/static/js/2.831e4561.chunk.js",
+    "static/js/2.831e4561.chunk.js.map": "/FeedTheSnake/static/js/2.831e4561.chunk.js.map",
+    "index.html": "/FeedTheSnake/index.html",
+    "precache-manifest.f8b3f350c18f6940cc64f977bfb678a9.js": "/FeedTheSnake/precache-manifest.f8b3f350c18f6940cc64f977bfb678a9.js",
+    "service-worker.js": "/FeedTheSnake/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/FeedTheSnake/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.831e4561.chunk.js.LICENSE.txt": "/FeedTheSnake/static/js/2.831e4561.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/FeedTheSnake/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4e3e819.js",
+    "static/js/2.831e4561.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.986d93a6.chunk.js"
+  ]
+}
